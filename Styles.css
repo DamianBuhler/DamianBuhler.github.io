@@ -6,7 +6,6 @@
 }
 .option1{
     font-size: 25px;
-    
 }
 .row {
     display: flex;
@@ -17,6 +16,7 @@
 .container{
     border: 7px solid black;
     padding: 5px;
+    justify-content: center;
 }
 ol{
     padding: 5px 10px;
