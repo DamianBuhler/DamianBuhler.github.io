@@ -1,8 +1,20 @@
 
 .title{
-    margin: auto;
     font-size: 50px;
     color: rgba(0, 0, 0, .5);
+    text-align:center;
+}
+.deadBackground{
+    background-image: url('Images/deathBackgoundSkull.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.background{
+    background-image: url('Images/Sunrise.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .option1{
     font-size: 25px;
@@ -16,6 +28,7 @@
 .container{
     border: 7px solid black;
     padding: 5px;
+    margin: 20px;
     justify-content: center;
 }
 ol{
